@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<player>
+    <toneEnd>
+        <frequency>444</frequency>
+        <duration>2000</duration>
+        <count>1</count>
+    </toneEnd>
+    <toneLevel>
+        <frequency>444</frequency>
+        <duration>500</duration>
+        <count>1</count>
+    </toneLevel>
+    <toneSection>
+        <frequency>600</frequency>
+        <duration>1000</duration>
+        <count>1</count>
+    </toneSection>
+    <toneStart>
+        <frequency>444</frequency>
+        <duration>500</duration>
+        <count>3</count>
+    </toneStart>
+</player>

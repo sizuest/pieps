@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session>
+    <levelLength>100.0</levelLength>
+    <sectionLength>25.0</sectionLength>
+    <initVelocity>1.388</initVelocity>
+    <incrVelocity>0.555</incrVelocity>
+    <terminalVelocity>4.166</terminalVelocity>
+</session>
