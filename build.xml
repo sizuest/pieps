@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<project name="Pieps">
+<taskdef name="swtjar" classname="org.swtjar.ant.SWTJarTask" classpath="./gui/swtjar.jar"/>
+
+        <!-- Package cross platform SWT Jar -->
+        <swtjar jarfile="./jars/Pieps.jar" targetmainclass="PiepsMain" swtversion="4.4">
+
+                  <!-- Application Classes -->
+                  <fileset dir="./bin/" includes="**/*.class" />
+  
+                  <!-- SWT Jars -->
+                  <fileset dir="./gui" includes="swt-*-4.4.jar" />
+        </swtjar>
+</project>
